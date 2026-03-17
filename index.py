@@ -39,3 +39,4 @@ class BankAccount:
         print("Текущий баланс: ", self.deposit)
 print("Как дела")
 print("Я могу что то делать")
+print(2+2)
