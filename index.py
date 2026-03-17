@@ -38,3 +38,4 @@ class BankAccount:
     def show_balance(self):
         print("Текущий баланс: ", self.deposit)
 print("Как дела")
+print("Я могу что то делать")
